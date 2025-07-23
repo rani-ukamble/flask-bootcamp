@@ -1,6 +1,6 @@
 ## Create websites with Python and Flask!
 
-# In this course we'll cover everything you need to know, including:
+# In this repository I'll cover everything we need to know, including:
 
 Learn basic HTML to create templates
 
