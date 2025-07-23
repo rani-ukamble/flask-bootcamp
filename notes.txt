@@ -1,0 +1,9 @@
+python -m venv myflaskenv
+
+source myflaskenv/bin/activate
+#activate myflaskenv
+
+pip install flask 
+
+pip install -r requirements.txt
+
